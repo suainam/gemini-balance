@@ -1,5 +1,5 @@
 # fly.toml 配置文件
-app = "gemini-balance"  # 替换为你的应用名（需唯一）
+app = "gemini-balance-24k1erqreq"  # 替换为你的应用名（需唯一）
 primary_region = "sin"  # 主部署区域（如美国东部：iad，可根据用户分布选择）
 
 [build]
